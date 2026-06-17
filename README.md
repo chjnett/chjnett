@@ -74,10 +74,6 @@
   <img src="https://streak-stats.demolab.com?user=chjnett&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" width="98%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chjnett&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%" />
-</p>
-
 ---
 
 ## 🧠 Featured Innovations
@@ -128,6 +124,15 @@
 
 ---
 
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:cheonhyeonjun583@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
 
 ### "Build fast, validate faster, ship with purpose."
 
