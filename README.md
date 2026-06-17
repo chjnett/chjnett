@@ -1,72 +1,151 @@
+<!-- =========================
+     PROFILE README for chjnett
+     ========================= -->
+
 <div align="center">
 
-# Hi, I'm Hyunjun Cheon (chjnett)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B1026,50:1D4ED8,100:38BDF8&text=Hyeonjun%20Cheon&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=AI%20Computer%20Engineering%20%7C%20Full-Stack%20AI%20Developer&descAlignY=56" width="100%" />
 
-### AI x Web Engineer in progress  
-실험하고, 만들고, 빠르게 검증합니다.
+# 👋 Hello, I'm Hyeonjun Cheon
 
-[![GitHub followers](https://img.shields.io/github/followers/chjnett?style=for-the-badge)](https://github.com/chjnett)
-[![GitHub stars](https://img.shields.io/github/stars/chjnett?style=for-the-badge)](https://github.com/chjnett?tab=repositories)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-black?style=for-the-badge)](https://github.com/chjnett)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Autonomous+AI+Agent+Builder;Full-Stack+AI+Developer;RAG+%7C+Multi-Agent+%7C+Production+Mindset;Learning+Fast%2C+Building+Faster" alt="Typing SVG" />
+</a>
+
+<br />
+
+<a href="https://github.com/chjnett">
+  <img src="https://img.shields.io/github/followers/chjnett?style=for-the-badge&color=2563eb" />
+</a>
+<a href="https://github.com/chjnett?tab=repositories">
+  <img src="https://img.shields.io/badge/Repos-33+-for-the-badge&logo=github&color=0f172a" />
+</a>
+<a href="https://hits.seeyoufarm.com">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchjnett&count_bg=%233B82F6&title_bg=%230F172A&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false" />
+</a>
 
 </div>
 
 ---
 
-## About Me
+## ⚡ Quick Intro
 
-- AI 서비스와 웹 제품을 직접 설계/구현/배포합니다.
-- `RAG`, `Agent`, `Dashboard`, `Landing` 프로젝트를 반복적으로 실험 중입니다.
-- 빠른 프로토타이핑과 실제 동작하는 결과물을 중요하게 생각합니다.
-
-## Tech Stack
-
-**Languages**
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-**Frontend / Backend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Interest**
-
-`LLM` `RAG` `AI Agents` `Data-driven Product`
-
-## Featured Projects
-
-- [marketing_solve_it](https://github.com/chjnett/marketing_solve_it)  
-  실전형 마케팅 문제 해결을 위한 웹 프로젝트
-- [my-sports-ai](https://github.com/chjnett/my-sports-ai)  
-  스포츠 도메인 기반 AI 실험 프로젝트
-- [kgu_web_paper](https://github.com/chjnett/kgu_web_paper)  
-  논문/과제 기반 RAG Assistant
-- [dashboard_rag](https://github.com/chjnett/dashboard_rag)  
-  RAG 결과 시각화 및 대시보드 실험
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chjnett&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chjnett&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-## Contact
-
-- GitHub: [@chjnett](https://github.com/chjnett)
-- Email: `your-email@example.com`
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 Profile</h3>
+      <ul>
+        <li>🏫 <b>Education</b>: Kyonggi Univ. AI Computer Engineering</li>
+        <li>🔬 <b>Research</b>: Undergraduate Researcher at <b>Network & System Lab</b></li>
+        <li>🚀 <b>Open Source</b>: Contributed to Hugging Face <a href="https://github.com/huggingface/smolagents"><code>smolagents</code></a></li>
+        <li>📍 <b>Location</b>: Suwon & Dongtan, South Korea</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ Dev Environment</h3>
+      <ul>
+        <li>💻 <b>Main Machine</b>: MacBook Air M4</li>
+        <li>🎨 <b>UI/UX</b>: Minimal + Smooth Micro-interactions</li>
+        <li>🧱 <b>Preferred Stack</b>: Next.js + FastAPI + Supabase + Cloudflare</li>
+        <li>🎯 <b>Focus</b>: Autonomous Agents, RAG, Productized AI</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
+## 🚀 Live Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,react,fastapi,python,pytorch,supabase,cloudflare,postgres,c,java,github,gcp&perline=7" />
+</p>
+
+---
+
+## 📊 Dynamic Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chjnett&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chjnett&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=chjnett&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chjnett&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%" />
+</p>
+
+---
+
+## 🧠 Featured Innovations
+
+<details>
+<summary><b>⚽ SoccerNet Highlight Generator (Computer Vision & AI)</b></summary>
+<br />
+
+- **Description**: OCR + event graph pipeline으로 스포츠 하이라이트를 자동 생성하는 시스템
+- **Tech Stack**: `Python`, `OpenCV`, `PyTorch`, `FastAPI`
+- **Key Feature**: 1 FPS 샘플링 최적화 + Scoreboard ROI 기반 정확도 향상
+
+</details>
+
+<details>
+<summary><b>🤖 Alpha Sentinel OS & ETERNA (Agent Orchestration)</b></summary>
+<br />
+
+- **Description**: 멀티 에이전트 워크플로우 오케스트레이션 및 자동화 플랫폼
+- **Tech Stack**: `Next.js`, `FastAPI`, `LangGraph`, `Supabase`, `smolagents`
+- **Key Feature**: Tool-call 중심 상태 관리, 모듈형 Agent Runtime
+
+</details>
+
+<details>
+<summary><b>🎓 KGU Assistant (RAG Study / Assignment / Schedule)</b></summary>
+<br />
+
+- **Repo**: [kgu_web_paper](https://github.com/chjnett/kgu_web_paper)
+- **Description**: PDF 기반 학습 도우미 + 과제 플래너 + 일정 관리 통합
+- **Tech Stack**: `FastAPI`, `React`, `Vite`, `Vector Retrieval`
+- **Key Feature**: 시험 대비 문제 생성 / 오답노트 / 과제 누락 점검
+
+</details>
+
+---
+
+## 🛰️ Selected Repositories
+
+<p align="center">
+  <a href="https://github.com/chjnett/marketing_solve_it"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chjnett&repo=marketing_solve_it&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/chjnett/my-sports-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chjnett&repo=my-sports-ai&theme=tokyonight&hide_border=true" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/chjnett/kgu_web_paper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chjnett&repo=kgu_web_paper&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/chjnett/dashboard_rag"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chjnett&repo=dashboard_rag&theme=tokyonight&hide_border=true" /></a>
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/chjnett">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 <div align="center">
-꾸준히 만들고, 빠르게 배우고, 끝까지 배포합니다.
+
+### "Build fast, validate faster, ship with purpose."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38BDF8,50:1D4ED8,100:0B1026" width="100%" />
+
 </div>
